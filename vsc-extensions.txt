@@ -1,0 +1,13 @@
+Dev Container: Ubuntu에 설치된 확장:
+aslamanver.vsc-export
+hosho.solidity-debugger
+jebbs.plantuml
+JuanBlanco.solidity
+MS-CEINTL.vscode-language-pack-ko
+tintinweb.graphviz-interactive-preview
+tintinweb.solidity-visual-auditor
+tintinweb.vscode-ethover
+tintinweb.vscode-inline-bookmarks
+tintinweb.vscode-solidity-flattener
+tintinweb.vscode-solidity-language
+trufflesuite-csi.truffle-vscode

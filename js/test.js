@@ -1,0 +1,1 @@
+var web3 = Web(Web3.givenProvider || "ws://home.ziofront.com:19201");
