@@ -4,6 +4,15 @@ pragma solidity >= 0.7.0 < 0.9.0;
 
 contract Lec1 {
 
-    string public hi = "Hello Solidity222";
+    string public hi = "Hello Solidity2223234";
+
+}
+
+
+contract Lec2 {
+
+    uint256 public testId;
+
+    string public testName = "Hello Contract";
 
 }

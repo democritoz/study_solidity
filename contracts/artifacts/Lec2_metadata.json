@@ -7,7 +7,20 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "hi",
+				"name": "testId",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testName",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -32,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/NewContract.sol": "Lec1"
+			"contracts/NewContract.sol": "Lec2"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},

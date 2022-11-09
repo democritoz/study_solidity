@@ -20,8 +20,8 @@ RUN sudo npm install -g ganache
 
 
 # Install JDK
-sudo apt-get install -y openjdk-17-jdk
+RUN sudo apt-get install -y openjdk-17-jdk
 
 
 # Install web3j
-RUN curl -L get.web3j.io | sh && source ~/.web3j/source.sh
+# RUN curl -L get.web3j.io | sh && source ~/.web3j/source.sh
