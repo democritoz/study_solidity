@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "homeAddress",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "phoneNumber",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TestContracts.sol": "Test002"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TestContracts.sol": {
+			"keccak256": "0x3a2e1a8ca5e4e3ba34a26c31bebb53a6748066230b93418ec48573eaac93cd1e",
+			"license": "GPL-30",
+			"urls": [
+				"bzz-raw://369830a0d5b98c5714154080ea8693b1abc3b2faf49608956608b53efd47fc83",
+				"dweb:/ipfs/QmPeSNYP1aCTPwukwnXXVBcd5ngycna1J7zjwYBY4CZPLK"
+			]
+		}
+	},
+	"version": 1
+}

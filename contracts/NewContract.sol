@@ -13,6 +13,10 @@ contract Lec2 {
 
     uint256 public testId;
 
-    string public testName = "Hello Contract";
+    string public name = "Hello Contract";
 
+
+    function getName() public returns(string memory) {
+        return name;
+    }
 }
