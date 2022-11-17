@@ -23,6 +23,11 @@ contract Test001 {
         return age;
     }
 
+    function changeAll(string memory _name, uint256 _age) public {
+        name = _name;
+        age = _age;
+    }
+
 }
 
 contract Test002 {
